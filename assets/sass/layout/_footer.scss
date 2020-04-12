@@ -7,6 +7,15 @@
 /* Footer */
 
 	#footer {
+		padding: 4em 4em 2em 4em;
+
+		background: rgba(36,38,41,0.975);
+		bottom: 4em;
+		left: 0;
+		overflow-y: auto;
+		position: static;
+		width: 100%;
+		z-index: 10001;
 		.ad {
 			margin: 0 0 1em 0;
 			max-height: 150px;
